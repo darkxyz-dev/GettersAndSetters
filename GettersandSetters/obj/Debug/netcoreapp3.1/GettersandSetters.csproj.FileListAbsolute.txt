@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\GettersandSetters\GettersandSetters\bin\Debug\netcoreapp3.1\GettersandSetters.exe
+C:\Users\opilane\source\repos\GettersandSetters\GettersandSetters\bin\Debug\netcoreapp3.1\GettersandSetters.deps.json
+C:\Users\opilane\source\repos\GettersandSetters\GettersandSetters\bin\Debug\netcoreapp3.1\GettersandSetters.runtimeconfig.json
+C:\Users\opilane\source\repos\GettersandSetters\GettersandSetters\bin\Debug\netcoreapp3.1\GettersandSetters.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\GettersandSetters\GettersandSetters\bin\Debug\netcoreapp3.1\GettersandSetters.dll
+C:\Users\opilane\source\repos\GettersandSetters\GettersandSetters\bin\Debug\netcoreapp3.1\GettersandSetters.pdb
+C:\Users\opilane\source\repos\GettersandSetters\GettersandSetters\obj\Debug\netcoreapp3.1\GettersandSetters.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\GettersandSetters\GettersandSetters\obj\Debug\netcoreapp3.1\GettersandSetters.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\GettersandSetters\GettersandSetters\obj\Debug\netcoreapp3.1\GettersandSetters.AssemblyInfo.cs
+C:\Users\opilane\source\repos\GettersandSetters\GettersandSetters\obj\Debug\netcoreapp3.1\GettersandSetters.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\GettersandSetters\GettersandSetters\obj\Debug\netcoreapp3.1\GettersandSetters.dll
+C:\Users\opilane\source\repos\GettersandSetters\GettersandSetters\obj\Debug\netcoreapp3.1\GettersandSetters.pdb
+C:\Users\opilane\source\repos\GettersandSetters\GettersandSetters\obj\Debug\netcoreapp3.1\GettersandSetters.genruntimeconfig.cache
